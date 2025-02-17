@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rafikul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3gQ579-KVGQcddZMu6JYvF&ust=1739888851047000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDlyo31yosDFQAAAAAdAAAAABAE)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafikul20&label=Profile%20views&color=0e75b6&style=flat" alt="rafikul20" /> </p>
 
